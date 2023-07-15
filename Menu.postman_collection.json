@@ -1,0 +1,28 @@
+{
+	"info": {
+		"_postman_id": "cd4387ce-f9a5-444b-a3df-2ddb287b1585",
+		"name": "Menu",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28492774"
+	},
+	"item": [
+		{
+			"name": "/menu",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9000/menu",
+					"host": [
+						"localhost"
+					],
+					"port": "9000",
+					"path": [
+						"menu"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
